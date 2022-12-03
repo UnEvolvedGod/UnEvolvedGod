@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @UnEvolvedGod
+- 👀 I’m interested in making games in Java
+- 🌱 I’m currently working towards a bachelor's degree in Computer Science
+- 💞️ I’m looking to collaborate on many types of projects 
+- 📫 How to reach me warriorsflame1215@gmail.com
